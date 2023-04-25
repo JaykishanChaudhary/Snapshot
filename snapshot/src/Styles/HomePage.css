@@ -1,0 +1,47 @@
+#snaphead{
+    font-style: italic;
+    text-align: center;
+}
+
+#searchinput{
+    margin-left: 30rem;
+    width: 20rem;
+    height: 2rem;
+}
+
+#lensimage{
+    height: 3rem;
+    /* margin-left: 50rem; */
+    /* rotate: 270deg; */
+    margin-top: -0.3rem;
+}
+
+#searchdiv{
+    display: flex;
+    flex-direction: row wrap;
+}
+
+#buttondiv{
+    margin-left: 27.5rem;
+    margin-top: 2rem;
+}
+
+.searchbutton{
+    margin-left: 2rem;
+    background-color: rgb(67, 246, 13);
+    border: none;
+    border-radius: 25px;
+    height: 2rem;
+    width: 4rem;
+}
+
+#imagediv{
+    display: flex;
+    flex-wrap:  wrap;
+    gap:4rem;
+    /* margin-top: 5rem; */
+    /* border: 1px solid ; */
+    width: 50rem;
+    min-height: 30rem;
+    margin: 5rem auto;
+}
